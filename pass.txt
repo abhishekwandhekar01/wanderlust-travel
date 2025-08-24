@@ -1,5 +1,0 @@
-uKzl7dkoi68cWynu
-
-mongodb+srv://abhishek:<db_password>@cluster0.c2bqiac.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-mongodb+srv://abhishek:uKzl7dkoi68cWynu@cluster0.c2bqiac.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
