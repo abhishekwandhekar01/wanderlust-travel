@@ -5,6 +5,8 @@ A full-stack **travel booking and discovery platform** where users can explore d
 
 Built with ❤️ using **Node.js, Express, MongoDB, and EJS**.
 
+Live demo: https://lnkd.in/gad-yX2M
+
 ---
 
 ## ✨ Features
