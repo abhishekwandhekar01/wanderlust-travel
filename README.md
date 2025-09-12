@@ -44,3 +44,17 @@ SESSION_SECRET=your_secret
 
 # 4. Start the development server
 npm start
+```
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a PR.
+
+
+📬 Contact
+👨‍💻 Abhishek Wandhekar
+
+LinkedIn: https://www.linkedin.com/in/abhishek-wandhekar-302172293/
+
+Email: abhishekwandhekar4@gmail.com
