@@ -47,6 +47,10 @@ npm install
 ```bash
 MONGO_URL=your_mongodb_connection_string
 SESSION_SECRET=your_secret
+CLOUD_NAME=cloudname
+CLOUD_API_KEY=your coludinary key
+CLOUD_API_SECRET=secrete key
+MAP_TOKEN=mapbox token
 ```
 # 4. Start the development server
 ```bash
