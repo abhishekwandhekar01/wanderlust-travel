@@ -32,19 +32,24 @@ Live demo: https://wanderlust-travel-12a6.onrender.com/listings
 
 Run the following commands step by step:
 
-```bash
+
 # 1. Clone the repository
+```bash
 git clone https://github.com/abhishekwandhekar01/wanderlust-travel.git
 cd wanderlust-travel
+```
 
 # 2. Install dependencies
+```bash
 npm install
-
+```
 # 3. Create a .env file in the root directory and add:
+```bash
 MONGO_URL=your_mongodb_connection_string
 SESSION_SECRET=your_secret
-
+```
 # 4. Start the development server
+```bash
 npm start
 ```
 
