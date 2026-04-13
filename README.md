@@ -1,9 +1,9 @@
 # 🌍 Wanderlust Travel
 
 ✨ *Your ultimate travel companion* ✨  
-A full-stack **travel booking and discovery platform** where users can explore destinations, share experiences, book stays, and plan trips with ease.  
+A full-stack platform where users can explore destinations, share experiences, and plan trips with ease.  
 
-Built with ❤️ using **Node.js, Express, MongoDB, and EJS**.
+Built using **Node.js, Express, MongoDB, and EJS**.
 
 Live demo: https://wanderlust-travel-12a6.onrender.com/listings
 
@@ -24,7 +24,8 @@ Live demo: https://wanderlust-travel-12a6.onrender.com/listings
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB (Atlas)  
 - **Authentication:** Passport.js  
-- **Hosting:** Heroku / Render / Vercel  
+- **Hosting:** Heroku / Render / Vercel
+- **Others:mapbox,cloudinary
 
 ---
 
